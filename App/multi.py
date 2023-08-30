@@ -4,4 +4,3 @@ def multiplicacion (a,b):
     else:
         return "son numeros < 0"
     
-#hola
