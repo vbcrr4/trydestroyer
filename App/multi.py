@@ -3,4 +3,5 @@ def multiplicacion (a,b):
         return a*b
     else:
         return "son numeros < 0"
-    
+def suma (a,b):
+    return a+b
